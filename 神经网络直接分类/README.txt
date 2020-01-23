@@ -1,0 +1,3 @@
+该项目在python3.6+tensorflow1.13.1环境下完成
+需要安装opencv-python
+具体说明见每个文件夹下面相应的README文件
